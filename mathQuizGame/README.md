@@ -7,3 +7,12 @@ The Math Quiz Game is an interactive math quiz program designed to test basic ma
 ## Primary Idea and objective:
 
 The main objective of this project is to provide simple educational tool for user to practice basic maths, particularly addition.
+
+## Program Architecture
+
+This program performs the following tasks:
+
+1. Generate two random numbers.
+2. Display a simple addition problem to the user.
+3. Take user input and check if the answer is correct.
+4. Display feedback.
