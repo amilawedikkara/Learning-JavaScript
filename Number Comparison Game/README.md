@@ -15,5 +15,5 @@ This program was developed to provide a simple console-based comparison tool to 
 This program performs the following tasks:
 
 1. Prompts the user to input two numbers separated by a space.
-2. Compares the numbers and identifies which is larger, or if they are equal.
+2. Compares the numbers and recognize which one is larger, or whether they are equal.
 3. Outputs the result in the terminal.
