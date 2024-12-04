@@ -10,6 +10,10 @@ The Number Comparison Game is a program where the user to input two numbers, and
 
 This program was developed to provide a simple console-based comparison tool to practice user input, string manipulation, and conditional logic in JavaScript. It is aimed at beginners learning JavaScript and anyone who wants a quick utility to compare two numbers.
 
-### When & Why:
+### Program Architecture
 
-This project was created in December 2024 to demonstrate how to handle user input in a command-line application using Node.js and how to perform basic comparisons between numbers.
+This program performs the following tasks:
+
+1. Prompts the user to input two numbers separated by a space.
+2. Compares the numbers and identifies which is larger, or if they are equal.
+3. Outputs the result in the terminal.
